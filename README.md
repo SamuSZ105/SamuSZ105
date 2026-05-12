@@ -45,27 +45,18 @@
 ### Robert Bosch — Software Developer
 Juarez, Chih | August 2021 – Present
 
-- Proxy lead of 5 people to manage, operate, and support software applications.
-- Used Scrum methodology to create tasks using an internal tool (Track&Release).
-- Direct contact with customers to define Software Engineering requirements.
-- Manage, integrate, deploy, maintain, and build software applications into VMs.
-- Achieved better performance on production KPIs.
-- Solved customer manual data input issues by connecting an API to productive machines.
-- Fixed minor and major backend issues.
-- Fixed minor and major frontend issues.
-- Collaborated on an internal npm repository (BCI).
-- Provided incident ticket support for customers.
+- Acted as Proxy Lead for a 5-person team, coordinating software application management, operations, and support within an Agile environment.
+- Defined technical requirements through direct stakeholder engagement and managed tasks using Track&Release (Scrum methodology).
+- Developed and deployed backend/frontend solutions, improving production KPIs through automation, including API integration to eliminate manual data entry on manufacturing machinery.
+- Maintained full-stack applications in VM environments, covering troubleshooting, backend optimization, and frontend improvements.
+- Contributed to an internal npm repository (BCI) for shared code libraries.
 
 ### InnoNET8a — IT Support / Web Developer
 Juarez, Chih | January 2020 – March 2021
 
-- Provided technical support to employees, clients, and end users.
-- Developed a web application for internal system ticket support.
-- Deployed services for the internal ticketing system.
-- Reduced resolution time by creating and assigning incidents.
-- Built a backlog of incidents and tracked resolutions.
-- Administered and maintained the company network.
-- Stored, received, and prepared laptops, computers, monitors, printer ink, and other equipment.
+- Developed and deployed a custom internal web application for incident ticket management, reducing issue resolution time.
+- Managed network administration, hardware inventory (computers, peripherals), and IT support for employees and clients.
+- Built and maintained a technical backlog for tracking incident resolution and system improvements.
 
 <!--
 **SamuSZ105/SamuSZ105** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
