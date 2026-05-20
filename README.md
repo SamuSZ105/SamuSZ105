@@ -16,13 +16,13 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-  <img src="https://raw.githubusercontent.com/SamuSZ105/SamuSZ105/98b00393a38aa9101ba4b3d9d89738157d41b723/badges/csharp.svg" alt="C#" />
+  <img src="https://raw.githubusercontent.com/SamuSZ105/SamuSZ105/refs/heads/main/badges/csharp.svg" alt="C#" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://raw.githubusercontent.com/SamuSZ105/SamuSZ105/475b8429a8ebb9e2d29cc02bddd7dbed0b5079e4/badges/c.svg" alt="C" />
+  <img src="https://raw.githubusercontent.com/SamuSZ105/SamuSZ105/refs/heads/main/badges/c.svg" alt="C" />
   <br/>
-  <img src="https://raw.githubusercontent.com/SamuSZ105/SamuSZ105/98b00393a38aa9101ba4b3d9d89738157d41b723/badges/java.svg" alt="Java" />
+  <img src="https://raw.githubusercontent.com/SamuSZ105/SamuSZ105/refs/heads/main/badges/java.svg" alt="Java" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
-  <img src="https://raw.githubusercontent.com/SamuSZ105/SamuSZ105/98b00393a38aa9101ba4b3d9d89738157d41b723/badges/oracle.svg" alt="Oracle SQL" />
+  <img src="https://raw.githubusercontent.com/SamuSZ105/SamuSZ105/refs/heads/main/badges/oracle.svg" alt="Oracle SQL" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
